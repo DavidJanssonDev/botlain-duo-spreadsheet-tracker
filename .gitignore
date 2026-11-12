@@ -136,6 +136,13 @@ ENV/
 env.bak/
 venv.bak/
 
+# API STUFF
+credentials.json
+token.json
+service_account*.json
+*.csv
+cache/
+
 # Spyder project settings
 .spyderproject
 .spyproject
