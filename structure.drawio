@@ -1,14 +1,14 @@
 <mxfile host="65bd71144e">
     <diagram id="Db4k0oVd9qfdlgEZbeBQ" name="Page-1">
-        <mxGraphModel dx="2290" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="992" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-62" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-                    <mxGeometry height="1110" width="600" x="240" y="940" as="geometry"/>
+                    <mxGeometry height="1240" width="600" x="240" y="940" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-138" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=light-dark(#aa3c3c, #ededed);strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillStyle=solid;" value="" vertex="1">
-                    <mxGeometry height="544" width="540" x="260" y="1471" as="geometry"/>
+                    <mxGeometry height="689" width="540" x="260" y="1471" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-7" edge="1" parent="1" source="Ml8KrgRPmmmxpb-j7qFs-2" style="edgeStyle=none;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" target="Ml8KrgRPmmmxpb-j7qFs-6">
                     <mxGeometry relative="1" as="geometry"/>
@@ -140,10 +140,10 @@
                     <mxGeometry height="50" width="100" x="490" y="990" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-87" parent="1" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
-                    <mxGeometry height="280" width="600" x="230" y="2180" as="geometry"/>
+                    <mxGeometry height="280" width="600" x="240" y="2290" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-89" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=4" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Google Api&lt;/span&gt;" vertex="1">
-                    <mxGeometry height="10" width="70" x="230" y="2190" as="geometry"/>
+                    <mxGeometry height="10" width="70" x="240" y="2300" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-95" edge="1" parent="1" source="Ml8KrgRPmmmxpb-j7qFs-92" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="Ml8KrgRPmmmxpb-j7qFs-94">
                     <mxGeometry relative="1" as="geometry"/>
@@ -234,24 +234,24 @@
                     <mxGeometry height="60" width="210" x="572.5" y="1570" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-142" connectable="0" parent="1" style="group" value="" vertex="1">
-                    <mxGeometry height="500" width="210" x="280" y="1515" as="geometry"/>
+                    <mxGeometry height="680" width="210" x="280" y="1500" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-72" parent="Ml8KrgRPmmmxpb-j7qFs-142" style="whiteSpace=wrap;html=1;dashed=0;align=left;labelPosition=right;verticalLabelPosition=top;verticalAlign=bottom;" value="" vertex="1">
-                    <mxGeometry height="475" width="210" as="geometry"/>
+                    <mxGeometry height="646" width="210" as="geometry"/>
                 </mxCell>
-                <mxCell id="Ml8KrgRPmmmxpb-j7qFs-77" parent="Ml8KrgRPmmmxpb-j7qFs-142" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="What Each Player Profile should have:&lt;div&gt;&lt;ul&gt;&lt;li&gt;Player Riot Name + tag&lt;/li&gt;&lt;li&gt;Role&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;KDA:&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Kills&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Deaths&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Assits/kill prepesitate&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Red/Blue Side&lt;/li&gt;&lt;li&gt;# of Towers taken&lt;/li&gt;&lt;li&gt;Match&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Gold&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Total gold&lt;/li&gt;&lt;li&gt;Gold in Items&lt;/li&gt;&lt;li&gt;Total gold per 15/10/5 mim&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Timeline&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Each kill they got to who&lt;/li&gt;&lt;li&gt;Gold&lt;/li&gt;&lt;li&gt;Item path&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(78, 86, 102, 0.38) rgb(22, 25, 29);&quot;&gt;Champion Name&lt;/li&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(78, 86, 102, 0.38) rgb(22, 25, 29);&quot;&gt;Runes&lt;/li&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(78, 86, 102, 0.38) rgb(22, 25, 29);&quot;&gt;Compleate Quest&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-                    <mxGeometry height="475" width="210" as="geometry"/>
+                <mxCell id="Ml8KrgRPmmmxpb-j7qFs-77" parent="Ml8KrgRPmmmxpb-j7qFs-142" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="What Each Player Profile should have:&lt;div&gt;&lt;ul&gt;&lt;li&gt;Player Riot Name + tag&lt;/li&gt;&lt;li&gt;Role&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;KDA:&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Kills&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Deaths&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(63, 63, 63); background-color: transparent;&quot;&gt;Assits/kill prepesitate&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Red/Blue Side&lt;/li&gt;&lt;li&gt;# of Towers taken&lt;/li&gt;&lt;li&gt;Match&lt;/li&gt;&lt;ul style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(78, 86, 102, 0.38) rgb(22, 25, 29);&quot;&gt;&lt;li&gt;Gold&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Total gold&lt;/li&gt;&lt;li&gt;Gold in Items&lt;/li&gt;&lt;li&gt;Total gold diffrance per 15/10/5 mim&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Timeline&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Each kill they got to who&lt;/li&gt;&lt;li&gt;Gold&lt;/li&gt;&lt;li&gt;Item path&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(78, 86, 102, 0.38) rgb(22, 25, 29);&quot;&gt;Xp&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(78, 86, 102, 0.38) rgb(22, 25, 29);&quot;&gt;Total Xp/Level&lt;/li&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(78, 86, 102, 0.38) rgb(22, 25, 29);&quot;&gt;Total Lvl + Xp per 15/10/5 mim&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(78, 86, 102, 0.38) rgb(22, 25, 29);&quot;&gt;Champion Name&lt;/li&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(78, 86, 102, 0.38) rgb(22, 25, 29);&quot;&gt;Runes&lt;/li&gt;&lt;li style=&quot;color: rgb(63, 63, 63); scrollbar-color: rgba(78, 86, 102, 0.38) rgb(22, 25, 29);&quot;&gt;Compleate Quest&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="646" width="210" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=4" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;PART 2: Create + Format Player Profile&lt;/span&gt;" vertex="1">
                     <mxGeometry height="10" width="230" x="270" y="1480" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-147" edge="1" parent="1" source="Ml8KrgRPmmmxpb-j7qFs-144" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="Ml8KrgRPmmmxpb-j7qFs-146" value="">
-                    <mxGeometry relative="1" x="-0.1231" as="geometry">
+                    <mxGeometry relative="1" x="-0.1238" as="geometry">
                         <Array as="points">
                             <mxPoint x="677.5" y="1980"/>
                             <mxPoint x="540" y="1980"/>
-                            <mxPoint x="540" y="2200"/>
-                            <mxPoint x="400" y="2200"/>
+                            <mxPoint x="540" y="2310"/>
+                            <mxPoint x="400" y="2310"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
@@ -262,27 +262,27 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-146" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Get Newest Data Row #" vertex="1">
-                    <mxGeometry height="60" width="170" x="310" y="2230" as="geometry"/>
+                    <mxGeometry height="60" width="170" x="320" y="2340" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-151" edge="1" parent="1" source="Ml8KrgRPmmmxpb-j7qFs-148" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="Ml8KrgRPmmmxpb-j7qFs-150" value="">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="645" y="2320"/>
-                            <mxPoint x="385" y="2320"/>
+                            <mxPoint x="655" y="2430"/>
+                            <mxPoint x="395" y="2430"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-148" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Convert Match Profile Into Google Sheet Row" vertex="1">
-                    <mxGeometry height="60" width="120" x="585" y="2230" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="595" y="2340" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-155" edge="1" parent="1" source="Ml8KrgRPmmmxpb-j7qFs-150" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="Ml8KrgRPmmmxpb-j7qFs-154">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-150" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Add In data Row into Google sheet" vertex="1">
-                    <mxGeometry height="60" width="120" x="325" y="2350" as="geometry"/>
+                    <mxGeometry height="60" width="120" x="335" y="2460" as="geometry"/>
                 </mxCell>
                 <mxCell id="Ml8KrgRPmmmxpb-j7qFs-154" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="END" vertex="1">
-                    <mxGeometry height="30" width="80" x="617.5" y="2365" as="geometry"/>
+                    <mxGeometry height="30" width="80" x="627.5" y="2475" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
