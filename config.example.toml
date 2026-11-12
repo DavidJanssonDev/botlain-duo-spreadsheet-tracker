@@ -1,0 +1,28 @@
+[riot]
+platform = "euw1"   # summorner/league host: euw1, na1, kr, ...
+region   = "europe" # account  /match  host: europe, america, asia, sea
+
+[duo]
+# The tow players to track. The script looks up the PUUIDs itselfs and cahces them
+adc         =  {name ="PlayerOne", tag="EUW" }
+support     =  {name ="PlayerTwo", tag="EUW" }
+
+[filter]
+queues               = [420]         # 420 = ranked solo/duo, 440 = flex, Empty = all queues
+start_date           = "2026-01-01"  # backfill no further back than this
+min_duration_seconds = 300           # skip remakes
+
+[data]
+fetch_timeline              = true   # needed for gold/xp diffs, item path, kill/tower timelines, skill order
+snapshot_interval_minutes   = 5      # whole minutes, 1 or higher
+snapshot_max_minutes        = 0      # 0 = all the way to the end of the game
+snapshot_include_final      = true   # also store a snapshot at game end
+full_profile_for_duo        = true   # false = basic colums for everyone
+
+
+[sheet]
+tab_matches_data = "Matches Data"
+tab_players_data = "Players Data"
+tab_events_data  = "Events Data"
+tab_bans_data    = "Bans Data"
+tab_duo_data     = "Duo Stats"
