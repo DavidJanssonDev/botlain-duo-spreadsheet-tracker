@@ -14,6 +14,7 @@ min_duration_seconds = 300      # Skip remakes
 
 [data]
 fetch_timeline = true               # Needed for gold/xp diffs, item path, kill/tower timelines, skill order
+
 snapshot_interval_minutes = 5       # Whole minutes; 1 or higher
 snapshot_max_minutes = 0            # 0 = all the way to the end of the game
 snapshot_include_final = true       # Also store a snapshot at game end
