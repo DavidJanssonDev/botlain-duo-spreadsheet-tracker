@@ -1,0 +1,3 @@
+[submodule "libs/google-sheets-python"]
+	path = libs/google-sheets-python
+	url = https://github.com/DavidJanssonDev/google-sheets-python.git
